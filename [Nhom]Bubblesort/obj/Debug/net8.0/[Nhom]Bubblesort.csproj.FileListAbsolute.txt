@@ -1,0 +1,14 @@
+D:\[Nhom]Bubblesort\bin\Debug\net8.0\[Nhom]Bubblesort.exe
+D:\[Nhom]Bubblesort\bin\Debug\net8.0\[Nhom]Bubblesort.deps.json
+D:\[Nhom]Bubblesort\bin\Debug\net8.0\[Nhom]Bubblesort.runtimeconfig.json
+D:\[Nhom]Bubblesort\bin\Debug\net8.0\[Nhom]Bubblesort.dll
+D:\[Nhom]Bubblesort\bin\Debug\net8.0\[Nhom]Bubblesort.pdb
+D:\[Nhom]Bubblesort\obj\Debug\net8.0\[Nhom]Bubblesort.GeneratedMSBuildEditorConfig.editorconfig
+D:\[Nhom]Bubblesort\obj\Debug\net8.0\[Nhom]Bubblesort.AssemblyInfoInputs.cache
+D:\[Nhom]Bubblesort\obj\Debug\net8.0\[Nhom]Bubblesort.AssemblyInfo.cs
+D:\[Nhom]Bubblesort\obj\Debug\net8.0\[Nhom]Bubblesort.csproj.CoreCompileInputs.cache
+D:\[Nhom]Bubblesort\obj\Debug\net8.0\[Nhom]Bubblesort.dll
+D:\[Nhom]Bubblesort\obj\Debug\net8.0\refint\[Nhom]Bubblesort.dll
+D:\[Nhom]Bubblesort\obj\Debug\net8.0\[Nhom]Bubblesort.pdb
+D:\[Nhom]Bubblesort\obj\Debug\net8.0\[Nhom]Bubblesort.genruntimeconfig.cache
+D:\[Nhom]Bubblesort\obj\Debug\net8.0\ref\[Nhom]Bubblesort.dll
