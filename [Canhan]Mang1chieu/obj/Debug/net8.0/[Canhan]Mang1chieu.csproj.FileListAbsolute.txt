@@ -1,0 +1,14 @@
+D:\[Canhan]Mang1chieu\obj\Debug\net8.0\[Canhan]Mang1chieu.GeneratedMSBuildEditorConfig.editorconfig
+D:\[Canhan]Mang1chieu\obj\Debug\net8.0\[Canhan]Mang1chieu.AssemblyInfoInputs.cache
+D:\[Canhan]Mang1chieu\obj\Debug\net8.0\[Canhan]Mang1chieu.AssemblyInfo.cs
+D:\[Canhan]Mang1chieu\obj\Debug\net8.0\[Canhan]Mang1chieu.csproj.CoreCompileInputs.cache
+D:\[Canhan]Mang1chieu\bin\Debug\net8.0\[Canhan]Mang1chieu.exe
+D:\[Canhan]Mang1chieu\bin\Debug\net8.0\[Canhan]Mang1chieu.deps.json
+D:\[Canhan]Mang1chieu\bin\Debug\net8.0\[Canhan]Mang1chieu.runtimeconfig.json
+D:\[Canhan]Mang1chieu\bin\Debug\net8.0\[Canhan]Mang1chieu.dll
+D:\[Canhan]Mang1chieu\bin\Debug\net8.0\[Canhan]Mang1chieu.pdb
+D:\[Canhan]Mang1chieu\obj\Debug\net8.0\[Canhan]Mang1chieu.dll
+D:\[Canhan]Mang1chieu\obj\Debug\net8.0\refint\[Canhan]Mang1chieu.dll
+D:\[Canhan]Mang1chieu\obj\Debug\net8.0\[Canhan]Mang1chieu.pdb
+D:\[Canhan]Mang1chieu\obj\Debug\net8.0\[Canhan]Mang1chieu.genruntimeconfig.cache
+D:\[Canhan]Mang1chieu\obj\Debug\net8.0\ref\[Canhan]Mang1chieu.dll

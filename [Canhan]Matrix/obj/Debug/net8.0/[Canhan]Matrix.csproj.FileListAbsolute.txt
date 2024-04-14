@@ -1,0 +1,14 @@
+D:\[Canhan]Matrix\bin\Debug\net8.0\[Canhan]Matrix.exe
+D:\[Canhan]Matrix\bin\Debug\net8.0\[Canhan]Matrix.deps.json
+D:\[Canhan]Matrix\bin\Debug\net8.0\[Canhan]Matrix.runtimeconfig.json
+D:\[Canhan]Matrix\bin\Debug\net8.0\[Canhan]Matrix.dll
+D:\[Canhan]Matrix\bin\Debug\net8.0\[Canhan]Matrix.pdb
+D:\[Canhan]Matrix\obj\Debug\net8.0\[Canhan]Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\[Canhan]Matrix\obj\Debug\net8.0\[Canhan]Matrix.AssemblyInfoInputs.cache
+D:\[Canhan]Matrix\obj\Debug\net8.0\[Canhan]Matrix.AssemblyInfo.cs
+D:\[Canhan]Matrix\obj\Debug\net8.0\[Canhan]Matrix.csproj.CoreCompileInputs.cache
+D:\[Canhan]Matrix\obj\Debug\net8.0\[Canhan]Matrix.dll
+D:\[Canhan]Matrix\obj\Debug\net8.0\refint\[Canhan]Matrix.dll
+D:\[Canhan]Matrix\obj\Debug\net8.0\[Canhan]Matrix.pdb
+D:\[Canhan]Matrix\obj\Debug\net8.0\[Canhan]Matrix.genruntimeconfig.cache
+D:\[Canhan]Matrix\obj\Debug\net8.0\ref\[Canhan]Matrix.dll
